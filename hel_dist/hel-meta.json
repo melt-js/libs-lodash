@@ -3,17 +3,17 @@
     "name": "libs-lodash",
     "app_group_name": "libs-lodash",
     "git_repo_url": "",
-    "online_version": "2026.11.16-1",
-    "build_version": "2026.11.16-1",
+    "online_version": "2026.11.22",
+    "build_version": "2026.11.22",
     "platform": "unpkg",
-    "create_at": "2026-11-21T04:56:00.628Z"
+    "create_at": "2026-11-22T19:47:43.955Z"
   },
   "version": {
     "plugin_ver": "5.4.3",
     "extract_mode": "build",
     "sub_app_name": "libs-lodash",
-    "sub_app_version": "libs-lodash@2026.11.16-1",
-    "version_tag": "2026.11.16-1",
+    "sub_app_version": "libs-lodash@2026.11.22",
+    "version_tag": "2026.11.22",
     "src_map": {
       "webDirPath": "/libs-lodash/hel_dist",
       "htmlIndexSrc": "/libs-lodash/hel_dist/index.html",
@@ -67,7 +67,7 @@
       "srvModSrcIndex": ""
     },
     "html_content": "<!doctype html>\n<html lang=\"zh-CN\">\n  <head>\n    <meta charset=\"UTF-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <title>libs-lodash</title>\n    <meta name=\"description\" content=\"hel 远程 lodash 库 libs-lodash\" />\n    <script type=\"module\" crossorigin src=\"/libs-lodash/hel_dist/assets/index-COy2y6Jx.js\"></script>\n    <link rel=\"modulepreload\" crossorigin href=\"/libs-lodash/hel_dist/assets/preload-helper-DI4i2D0s.js\">\n    <link rel=\"modulepreload\" crossorigin href=\"/libs-lodash/hel_dist/assets/vendor-B-hfKpnX.js\">\n  </head>\n  <body>\n    <div id=\"container\"></div>\n  </body>\n</html>\n",
-    "create_at": "2026-11-21T04:56:00.628Z",
+    "create_at": "2026-11-22T19:47:43.955Z",
     "desc": "this version meta is created by hel-dev-utils@5.4.3"
   }
 }
