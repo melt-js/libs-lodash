@@ -6,7 +6,7 @@
     "online_version": "2026.11.22",
     "build_version": "2026.11.22",
     "platform": "unpkg",
-    "create_at": "2026-11-22T19:47:43.955Z"
+    "create_at": "2026-11-26T04:23:38.714Z"
   },
   "version": {
     "plugin_ver": "5.4.3",
@@ -60,14 +60,13 @@
       ],
       "bodyAssetList": [],
       "otherSrcList": [
-        "/libs-lodash/hel_dist/assets/vendor-B-hfKpnX.js.gz",
         "/libs-lodash/hel_dist/index.html"
       ],
       "srvModSrcList": [],
       "srvModSrcIndex": ""
     },
     "html_content": "<!doctype html>\n<html lang=\"zh-CN\">\n  <head>\n    <meta charset=\"UTF-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <title>libs-lodash</title>\n    <meta name=\"description\" content=\"hel 远程 lodash 库 libs-lodash\" />\n    <script type=\"module\" crossorigin src=\"/libs-lodash/hel_dist/assets/index-COy2y6Jx.js\"></script>\n    <link rel=\"modulepreload\" crossorigin href=\"/libs-lodash/hel_dist/assets/preload-helper-DI4i2D0s.js\">\n    <link rel=\"modulepreload\" crossorigin href=\"/libs-lodash/hel_dist/assets/vendor-B-hfKpnX.js\">\n  </head>\n  <body>\n    <div id=\"container\"></div>\n  </body>\n</html>\n",
-    "create_at": "2026-11-22T19:47:43.955Z",
+    "create_at": "2026-11-26T04:23:38.714Z",
     "desc": "this version meta is created by hel-dev-utils@5.4.3"
   }
 }
